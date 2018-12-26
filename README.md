@@ -1,4 +1,4 @@
-# EdurekaUserCredentialsNotification
+# Android User Credentials Notification
 
 ![notification 1](https://user-images.githubusercontent.com/801612/50356128-ccc5c800-0505-11e9-9f7a-9404ea9d7ad5.jpeg)
 
